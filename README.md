@@ -111,9 +111,6 @@ Os diagramas do projeto (renderizam em Mermaid, ex.: no GitHub/VS Code) estão e
 - **[diagrama_classes.md](docs/diagrama_classes.md)** — Diagrama de Classes (atributos e métodos): `Usuario`, `Categoria`, `Setor`, `Recurso`, `Reserva`, `ApiService`.
 - **[diagrama_casos_de_uso.md](docs/diagrama_casos_de_uso.md)** — Casos de uso dos atores **Administrador** e **Usuário/Aluno**.
 
-## 🚀 Como Rodar o Projeto
-
-Guia resumido — o passo a passo completo está em **[docs/COMO_RODAR.md](docs/COMO_RODAR.md)**.
 
 ### 1. Banco de Dados + Web
 
